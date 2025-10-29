@@ -4,8 +4,8 @@ import React from 'react';
 export default function services() {
   return (
     <>
-      <div>services</div>
-      <Link href='/'>Home</Link>
+      <div>This is services page</div>
+      <Link href='/'>Go to Home</Link>
     </>
   );
 }
