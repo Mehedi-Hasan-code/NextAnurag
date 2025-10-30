@@ -57,3 +57,10 @@
   description: `This is blog ${blogID}`,
   };
   }
+
+# Route Grouping
+
+- (fileName) 
+- (fileName)/route1
+- (fileName)/route2
+
