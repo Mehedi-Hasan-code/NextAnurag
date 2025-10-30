@@ -1,6 +1,9 @@
 import Link from 'next/link';
 import React from 'react';
 
+export const metadata = {
+  title: 'Services'
+};
 export default function services() {
   return (
     <>

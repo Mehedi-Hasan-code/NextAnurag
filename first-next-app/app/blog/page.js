@@ -2,6 +2,9 @@
 import Link from 'next/link'
 import React from 'react'
 
+export const metadata = {
+  title: 'Blogs'
+}
 export default async function Blogs() {
   return (
     <div>
