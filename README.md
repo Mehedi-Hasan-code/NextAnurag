@@ -64,3 +64,9 @@
 - (fileName)/route1
 - (fileName)/route2
 
+# Private Routes
+
+- /_folderName
+- this will not create a folderName route
+- if we want to create a _folderName route we have to name it as
+  %5F_folderName
