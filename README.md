@@ -70,3 +70,15 @@
 - this will not create a folderName route
 - if we want to create a _folderName route we have to name it as
   %5F_folderName
+
+# Streaming
+- use Suspense for optimizing the components which takes time to load
+
+* server components execute on server
+* client components execute on client as well as on the server
+
+# Rendering Paradigms
+* SSR
+  - SSG
+  - ISR
+* CSR
